@@ -1,0 +1,33 @@
+Shakkipeli – käyttöohjeet
+
+Ohjelma käynnistää graafisen käyttöliittymän, jossa näkyy 8x8 shakkilauta.
+Pelaajat siirtävät nappuloita klikkaamalla ensin nappulaa ja sitten sen kohderuutua.
+
+Pelin säännöt:
+
+- Pelaajat siirtävät nappuloita vuorotellen (valkoinen aloittaa).
+- Siirrot noudattavat tavallisia shakin sääntöjä:
+  - Sotilas: liikkuu 1 eteen, 2 ensimmäisellä siirrolla, syö vinottain
+  - Torni: liikkuu suoraan vaaka- ja pystysuunnassa
+  - Lähetti: liikkuu vinottain
+  - Ratsu: liikkuu L-muotoisesti (2+1)
+  - Kuningatar: liikkuu mihin tahansa suuntaan
+  - Kuningas: liikkuu yhden ruudun kaikkiin suuntiin
+- Oman nappulan päälle ei voi siirtää.
+- Nappuloita ei voi siirtää sääntöjen vastaisesti.
+- Sallitut siirtopaikat korostuvat, kun nappula on valittu.
+
+Pelin päättyminen:
+
+- Peli päättyy, kun jompikumpi kuningas syödään.
+- Tällöin näytetään viesti voittajasta, ja peli lukittuu.
+
+Huom:
+- Linnoitus, shakki ja mattitilanteet eivät ole mukana tässä versiossa.
+- Ei sotilaan promootiota käytössä.
+- "Uusi peli" -toimintoa ei ole, sovellus tulee käynnistää uudelleen.
+
+Ohjelma käynnistetään normaalisti Qt Creatorilla, ja se ei tulosta virheitä konsoliin.
+
+Tekijä: Tiina Salmi
+Päivämäärä: 6.4.2025
