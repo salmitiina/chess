@@ -2,8 +2,6 @@
  * Tiedosto: mainwindow.cpp
  * Kuvaus: Toteuttaa MainWindow-luokan, joka hallitsee graafista shakkipeliä
  * Tekijä: Tiina Salmi
- * Opiskelijatunnus: K392596
- * Sähköposti: tiina.k.salmi@tuni.fi
  * Projekti: student/07/chess
  */
 

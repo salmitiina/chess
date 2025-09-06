@@ -2,8 +2,6 @@
  * Tiedosto: main.cpp
  * Kuvaus: Ohjelman aloituspiste. Luo MainWindow-olion ja käynnistää Qt-sovelluksen.
  * Tekijä: Tiina Salmi
- * Opiskelijanumero: K392596
- * Sähköposti: tiina.k.salmi@tuni.fi
  * Projekti: student/07/chess
  */
 

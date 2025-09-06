@@ -5,8 +5,6 @@
  * Tiedosto: mainwindow.hh
  * Kuvaus: Määrittelee MainWindow-luokan, joka hallitsee shakkipelin graafista käyttöliittymää
  * Tekijä: Tiina Salmi
- * Opiskelijatunnus: K392596
- * Sähköposti: tiina.k.salmi@tuni.fi
  * Projekti: student/07/chess
  */
 
